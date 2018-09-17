@@ -1,7 +1,5 @@
 package view;
 
-
-
 import controller.GameController;
 
 import java.awt.*;
